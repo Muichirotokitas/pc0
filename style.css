@@ -1,3 +1,16 @@
+body {
+    background: #00ffc8
+}
+
+h1 {
+  text-align: center
+}
+
 p {
-    text-align: center
-   }
+  text-align: center;
+}
+
+em strong {
+          color: #00fa85
+}
+
